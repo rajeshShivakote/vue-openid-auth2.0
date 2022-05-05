@@ -1,0 +1,1 @@
+# vue-openid-auth2.0
