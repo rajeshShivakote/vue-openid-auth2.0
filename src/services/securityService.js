@@ -23,8 +23,6 @@ var mgr = new Oidc.UserManager({
   }
 })
 
-alert("window")
-console.log(window.location.origin)
 Oidc.Log.logger = console;
 Oidc.Log.level = Oidc.Log.INFO;
 
